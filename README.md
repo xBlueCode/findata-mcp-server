@@ -2,6 +2,8 @@
 
 This is an MCP server that provides access to the Alpha Vantage API, allowing stock data retrieval to be used as context to LLMs.
 
+<a href="https://glama.ai/mcp/servers/czslwc47w9"><img width="380" height="200" src="https://glama.ai/mcp/servers/czslwc47w9/badge" alt="findata-mcp-server MCP server" /></a>
+
 ## Available Features
 
 *   `getStockQuote`: Get the current quote for a stock.
